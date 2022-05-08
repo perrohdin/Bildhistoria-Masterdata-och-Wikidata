@@ -4,7 +4,7 @@ Repository för skolor i Sverige
 Tanken är att [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Svenska skolor och detta repository är för att se vad som finns i Wikidata 
 
 ## Mer info
-* fråga Bybrunnen om några vet mer om status etc.
+
 * [Telegram grupp](https://t.me/joinchat/FgDj6BTRqdKkYZaCqOB_FA) där det pratas Wikidata då och då
 ## Vad som hittats i Wikipedia
 
