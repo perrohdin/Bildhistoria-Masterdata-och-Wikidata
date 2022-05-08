@@ -16,3 +16,6 @@ Tanken är att [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Sven
 * [Lista över folkhögskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_folkh%C3%B6gskolor_i_Sverige)
 ### Bilder wikicommons ###
 * [Category:Educational_institutions_in_Sweden](https://commons.wikimedia.org/wiki/Category:Educational_institutions_in_Sweden)
+
+## Misc ##
+* [Datastory school-map-sweden](https://www.datastory.org/sv/services/school-map-sweden)
