@@ -6,7 +6,7 @@ Tanken är att [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Sven
 ## Mer info
 
 * [Telegram grupp](https://t.me/joinchat/FgDj6BTRqdKkYZaCqOB_FA) där det pratas Wikidata då och då
-* [frågade på Bybrunnen](https://sv.wikipedia.org/wiki/Wikipedia:Bybrunnen#Bildhistoria_-_skolor_i_Sverige)
+* [frågade på Wikipedia Bybrunnen](https://sv.wikipedia.org/wiki/Wikipedia:Bybrunnen#Bildhistoria_-_skolor_i_Sverige)
 
 <img width="1038" alt="image" src="https://user-images.githubusercontent.com/14206509/167285159-0be86c17-8efc-4809-ae38-4703a16520bd.png">
 
