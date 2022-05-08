@@ -1,0 +1,2 @@
+# svenskaSkolor
+Repository för skolor 
