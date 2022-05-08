@@ -6,6 +6,10 @@ Tanken är att [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Sven
 ## Mer info
 
 * [Telegram grupp](https://t.me/joinchat/FgDj6BTRqdKkYZaCqOB_FA) där det pratas Wikidata då och då
+* [frågade på Bybrunnen](https://sv.wikipedia.org/wiki/Wikipedia:Bybrunnen#Bildhistoria_-_skolor_i_Sverige)
+
+<img width="1038" alt="image" src="https://user-images.githubusercontent.com/14206509/167285159-0be86c17-8efc-4809-ae38-4703a16520bd.png">
+
 ## Vad som hittats i Wikipedia
 
 * [Lista över läroverk och realskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_l%C3%A4roverk_och_realskolor_i_Sverige) 
