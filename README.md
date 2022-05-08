@@ -10,6 +10,11 @@ Tanken är att [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Sven
 
 <img width="1038" alt="image" src="https://user-images.githubusercontent.com/14206509/167285159-0be86c17-8efc-4809-ae38-4703a16520bd.png">
 
+* frågade på [FB Bygdeband](https://www.facebook.com/Bygdeband/posts/10158061895557315)
+
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/14206509/167285284-073e3d97-eb9e-4159-96af-e659b4034617.png">
+
+
 ## Vad som hittats i Wikipedia
 
 * [Lista över läroverk och realskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_l%C3%A4roverk_och_realskolor_i_Sverige) 
