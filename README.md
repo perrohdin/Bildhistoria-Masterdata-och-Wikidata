@@ -31,4 +31,4 @@ Tanken är att [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Sven
 * [Datastory school-map-sweden](https://www.datastory.org/sv/services/school-map-sweden)
 * [Skoladresser från skolenhetsregistret](https://www.skolverket.se/skolutveckling/statistik/skoladresser-fran-skolenhetsregistret)
 * Kulturnav [Svenska skolor - skolenhetsregistret (SCB)](https://kulturnav.org/566244ce-12e7-430c-a00c-005edda27564) läst 2020-02-13
-   * digitaltmuseum [sökning topic skolor](https://digitaltmuseum.se/search/?aq=topic%3A%22Skolor%22) --> 1,644 results 
+   * digitaltmuseum [sökning topic skolor](https://digitaltmuseum.se/search/?aq=topic%3A%22Skolor%22) --> 1,644 results [skola](https://digitaltmuseum.se/search/?aq=topic%3A%22Skola%22) --> 12,996 results
