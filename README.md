@@ -7,7 +7,7 @@ Repository för skolenheter i Sverige. Eftersom [Bildhistoria](https://blogg.bil
 
 Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med så många skolor det går för att bespara användare inmatninsarbete och undvika dubletter (pch kopling till Wikidata för att uppdatera info vid behov), men vi kommer även att tillåta användare att skapa nya skolenheter som kanske sedan i framtiden kan skapas i wikidata. 
 
-Bakgrundsartikler om svenska skolväsendet: 
+Bakgrundsartiklar om svenska skolväsendet: 
 
 * https://lararnashistoria.se/
 * https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-och-forskning/befolkningens-utbildning/historisk-statistik-om-utbildning/
