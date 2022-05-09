@@ -13,18 +13,18 @@ Bakgrundsartikler om svenska skolväsendet:
 
 ## Önskade egenskaper för skola
 
-Wikidata ID	
-Typ av skola (enl UNESCO's klassificering)	
-Namn1	
-Namn2	
-Namn3	
-Grundades (datum)
-Grundades av - koppling till person	
-En eller flera platser för verksamhet + tidsintervall (I BH använder vi lantmäteriets Ortsnamn för platser)	
-Eventuella bilder på utbildningsanstaltens byggnader eller interör	
-Kommentar
-Avvecklades/Upphörde (Datum)
-Omvandlades till (wikidata ID + namn på den eventuella skolan som skolan omvandlades till)
+* Wikidata ID	
+* Typ av skola (enl UNESCO's klassificering)	
+* N*amn1	
+* Namn2	
+* Namn3	
+* Grundades (datum)
+* Grundades av - koppling till person	
+* En eller flera platser för verksamhet + tidsintervall (I BH använder vi lantmäteriets Ortsnamn för platser)	
+* Eventuella bilder på utbildningsanstaltens byggnader eller interör	
+* Kommentar
+* Avvecklades/Upphörde (Datum)
+* Omvandlades till (wikidata ID + namn på den eventuella skolan som skolan omvandlades till)
 
 ## Svenska skolor i Wikipedia/Wikidata
 
