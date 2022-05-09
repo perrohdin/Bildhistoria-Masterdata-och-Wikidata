@@ -12,6 +12,8 @@ Bakgrundsartiklar om svenska skolväsendet:
 * https://lararnashistoria.se/
 * https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-och-forskning/befolkningens-utbildning/historisk-statistik-om-utbildning/
 
+Vi önskar se alla typer av lägre och högre utbildningsformer (småskola, folkskola, realskola, läroverk, gymnasier, universitet, folkhögskolor, studieförbund)
+
 ## Önskade egenskaper för skola
 
 * Wikidata ID	
