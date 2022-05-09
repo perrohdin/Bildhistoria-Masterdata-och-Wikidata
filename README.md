@@ -5,7 +5,7 @@ Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med s
 
 Bakgrundsartikler om svenska skolväsendet: 
 
-[https://lararnashistoria.se/]
+* https://lararnashistoria.se/
 
 ## Svenska skolor i Wikipedia/Wikidata
 
