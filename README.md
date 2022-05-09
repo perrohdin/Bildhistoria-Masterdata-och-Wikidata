@@ -7,7 +7,7 @@ Bildhistoria.se - som lanseras hösten 2022 - kommer att tillåta användare att
 * Yrkestitlar
 * mm
 
-I görligaste mån bör dess avara standardiserade vokabulärer som inte kan ändras av användare (tex HISCO för yrkestitlar). I andra fall får vi försöka populera med så mycket masterdata vi kan, och sedan tillåta våra användare att skapa nya instanser/poser av en given datatyp (tex skolor). 
+I görligaste mån bör dess vara standardiserade vokabulärer som inte kan ändras av användare (tex HISCO för yrkestitlar). I andra fall får vi försöka populera med så mycket masterdata vi kan, och sedan tillåta våra användare att skapa nya instanser/poser av en given datatyp (tex skolor). 
 
 För alla masterdata typer kommer dett att finnas ett "samma som wikidata" fält för att tydliggöra koplingen till wikidata. Om det finns material på wikidata/wikipedia kans Bildhistoria använda detta för att berika användarupplevelsen. När väl BH användare skapar nya dataposter kan dessa skapas i wikidata med jämna intervall. 
 
