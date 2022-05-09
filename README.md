@@ -10,6 +10,7 @@ Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med s
 Bakgrundsartikler om svenska skolväsendet: 
 
 * https://lararnashistoria.se/
+* https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-och-forskning/befolkningens-utbildning/historisk-statistik-om-utbildning/
 
 ## Önskade egenskaper för skola
 
