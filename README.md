@@ -54,11 +54,6 @@ Vi önskar se alla typer av lägre och högre utbildningsformer (småskola, folk
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/14206509/167285159-0be86c17-8efc-4809-ae38-4703a16520bd.png">
 
-* frågade på [FB Bygdeband](https://www.facebook.com/Bygdeband/posts/10158061895557315)
-  * test söka "[skola på www.hembygd.se](https://www.hembygd.se/shf/utforska-platsen?searchTerm=skola&redirect=map&showInfo=true&detailedSearch=false&showSearch=true)" > 13528 träff [begränsar till plats ](https://www.hembygd.se/shf/utforska-platsen?searchTerm=skola&redirect=map&showInfo=true&detailedSearch=false&showSearch=true)--> 1912
-
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/14206509/167285284-073e3d97-eb9e-4159-96af-e659b4034617.png">
-
 
 * [Category:Educational_institutions_in_Sweden](https://commons.wikimedia.org/wiki/Category:Educational_institutions_in_Sweden)
 
