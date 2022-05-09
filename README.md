@@ -36,6 +36,7 @@ Vi önskar se alla typer av lägre och högre utbildningsformer (småskola, folk
       * [SPARQL](https://w.wiki/58nT) / [koppling sv:Wikipedia](https://w.wiki/58nb) / [karta](https://w.wiki/58nj) / [bild](https://w.wiki/58nm) / [saknar bild](https://w.wiki/58ni)
 * [Lista över tekniska läroverk och gymnasier i Sverige](https://sv.m.wikipedia.org/wiki/Lista_%C3%B6ver_tekniska_l%C3%A4roverk_och_gymnasier_i_Sverige)
 * [Lista över folkhögskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_folkh%C3%B6gskolor_i_Sverige)
+* https://commons.wikimedia.org/wiki/Category:Universities_and_colleges_in_Sweden
 * [Kategori:Listor_med_anknytning_till_utbildning](https://sv.wikipedia.org/wiki/Kategori:Listor_med_anknytning_till_utbildning)
 
 ## Listor på skolor utanför Wikivärlden
