@@ -40,18 +40,18 @@ Vi önskar se alla typer av lägre och högre utbildningsformer (småskola, folk
 * [Lista över tekniska läroverk och gymnasier i Sverige](https://sv.m.wikipedia.org/wiki/Lista_%C3%B6ver_tekniska_l%C3%A4roverk_och_gymnasier_i_Sverige)
 * [Lista över folkhögskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_folkh%C3%B6gskolor_i_Sverige)
 * [Kategori:Listor_med_anknytning_till_utbildning](https://sv.wikipedia.org/wiki/Kategori:Listor_med_anknytning_till_utbildning)
-* https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_konstutbildningar_i_Sverige
-* https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_universitet_och_h%C3%B6gskolor_i_Sverige
+* [Lista över konstutbildningar i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_konstutbildningar_i_Sverige)
+* [Lista över universitet och högskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_universitet_och_h%C3%B6gskolor_i_Sverige)
 
 ## Listor på skolor utanför Wikivärlden
-* http://www.tam-arkiv.se/arkivet borde kanske ha listor på skolor eftersom de är arkivbildare för många av lärarfacken
-* https://sv.wikipedia.org/wiki/Folkbildningsr%C3%A5det har myndighetsansvar för studieförbund och folkhögskolor - de borde ha aktuella och kanske även historiska listor på dessa skolformer
+* [www.tam-arkiv.se](http://www.tam-arkiv.se/arkivet) borde kanske ha listor på skolor eftersom de är arkivbildare för många av lärarfacken
+* [Folkbildningsrådet](https://sv.wikipedia.org/wiki/Folkbildningsr%C3%A5det) har myndighetsansvar för studieförbund och folkhögskolor - de borde ha aktuella och kanske även historiska listor på dessa skolformer
 * [Datastory school-map-sweden](https://www.datastory.org/sv/services/school-map-sweden)
-* [Aktuella skolor 2021 från skolenhetsregistret (grundskolor/gymnasier/förskolor]) (https://www.skolverket.se/skolutveckling/statistik/skoladresser-fran-skolenhetsregistret)
+* Aktuella skolor 2021 från skolenhetsregistret [grundskolor/gymnasier/förskolor](https://www.skolverket.se/skolutveckling/statistik/skoladresser-fran-skolenhetsregistret)
 * Kulturnav [Svenska skolor - skolenhetsregistret (SCB)](https://kulturnav.org/566244ce-12e7-430c-a00c-005edda27564) läst 2020-02-13
-* digitaltmuseum [sökning topic skolor](https://digitaltmuseum.se/search/?aq=topic%3A%22Skolor%22) --> 1,644 results [skola](https://digitaltmuseum.se/search/?aq=topic%3A%22Skola%22) --> 12,996 results
-* Hembygd.se får 1912 träffar på skola+plats: https://www.hembygd.se/shf/utforska-platsen?searchTerm=skola&redirect=map&showInfo=true&detailedSearch=false&showSearch=true  
-* Många av skolmuseerna är ju inrymda i gamla skolor: https://commons.wikimedia.org/wiki/Category:School_museums_in_Sweden
+* Digitaltmuseum [sökning topic skolor](https://digitaltmuseum.se/search/?aq=topic%3A%22Skolor%22) --> 1,644 results [skola](https://digitaltmuseum.se/search/?aq=topic%3A%22Skola%22) --> 12,996 results
+* Hembygd.se får 1912 träffar på [sökning skola+plats](https://www.hembygd.se/shf/utforska-platsen?searchTerm=skola&redirect=map&showInfo=true&detailedSearch=false&showSearch=true)  
+* Många av skolmuseerna är ju inrymda i gamla skolor: [Category:School_museums_in_Sweden](https://commons.wikimedia.org/wiki/)
 
 
 ## Mer info
