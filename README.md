@@ -17,6 +17,7 @@ Vi önskar se alla typer av lägre och högre utbildningsformer (småskola, folk
 ## Önskade egenskaper för skola
 
 * Wikidata ID	
+  * saknas skolan i [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) så skapar vi den  
 * Typ av skola (enl UNESCO's klassificering)	
 * Namn1	
 * Namn2	
