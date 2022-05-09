@@ -37,6 +37,7 @@ Bakgrundsartiklar om svenska skolväsendet:
 * [Kategori:Listor_med_anknytning_till_utbildning](https://sv.wikipedia.org/wiki/Kategori:Listor_med_anknytning_till_utbildning)
 
 ## Listor på skolor utanför Wikivärlden
+* http://www.tam-arkiv.se/arkivet borde kanske ha listor på skolor eftersom de är arkivbildare för många av lärarfacken
 * [Datastory school-map-sweden](https://www.datastory.org/sv/services/school-map-sweden)
 * [Skoladresser från skolenhetsregistret](https://www.skolverket.se/skolutveckling/statistik/skoladresser-fran-skolenhetsregistret)
 * Kulturnav [Svenska skolor - skolenhetsregistret (SCB)](https://kulturnav.org/566244ce-12e7-430c-a00c-005edda27564) läst 2020-02-13
