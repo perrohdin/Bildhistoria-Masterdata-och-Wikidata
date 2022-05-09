@@ -27,7 +27,7 @@ Bakgrundsartikler om svenska skolväsendet:
 
 
 ## Mer info
-
+* [Bildhistoria på FB](https://www.facebook.com/Bildhistoria-101067058804043/)
 * [Telegram grupp](https://t.me/joinchat/FgDj6BTRqdKkYZaCqOB_FA) där det pratas Wikidata då och då
 * [frågade på Wikipedia Bybrunnen](https://sv.wikipedia.org/wiki/Wikipedia:Bybrunnen#Bildhistoria_-_skolor_i_Sverige)
 
