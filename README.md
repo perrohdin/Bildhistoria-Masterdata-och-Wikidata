@@ -40,7 +40,7 @@ Vi önskar se alla typer av lägre och högre utbildningsformer (småskola, folk
 
 ## Listor på skolor utanför Wikivärlden
 * http://www.tam-arkiv.se/arkivet borde kanske ha listor på skolor eftersom de är arkivbildare för många av lärarfacken
-*  * https://sv.wikipedia.org/wiki/Folkbildningsr%C3%A5det har myndighetsansvar för studieförbund och folkhögskolor - de borde ha aktuella och kanske ävebn historiska listor på dessa skolformer
+* https://sv.wikipedia.org/wiki/Folkbildningsr%C3%A5det har myndighetsansvar för studieförbund och folkhögskolor - de borde ha aktuella och kanske ävebn historiska listor på dessa skolformer
 * [Datastory school-map-sweden](https://www.datastory.org/sv/services/school-map-sweden)
 * [Skoladresser från skolenhetsregistret](https://www.skolverket.se/skolutveckling/statistik/skoladresser-fran-skolenhetsregistret)
 * Kulturnav [Svenska skolor - skolenhetsregistret (SCB)](https://kulturnav.org/566244ce-12e7-430c-a00c-005edda27564) läst 2020-02-13
