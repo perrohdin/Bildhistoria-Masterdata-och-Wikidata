@@ -3,6 +3,10 @@ Repository för skolenheter i Sverige. Eftersom [Bildhistoria](https://blogg.bil
 
 Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med så många skolor det går för att bespara användare inmatninsarbete och undvika dubletter (pch kopling till Wikidata för att uppdatera info vid behov), men vi kommer även att tillåta användare att skapa nya skolenheter som kanske sedan i framtiden kan skapas i wikidata. 
 
+Bakgrundsartikler om svenska skolväsendet: 
+
+[https://lararnashistoria.se/]
+
 ## Svenska skolor i Wikipedia/Wikidata
 
 * [Lista över läroverk och realskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_l%C3%A4roverk_och_realskolor_i_Sverige) 
