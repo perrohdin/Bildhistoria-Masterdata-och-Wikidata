@@ -5,7 +5,9 @@ Repository för skolenheter i Sverige. Eftersom [Bildhistoria](https://blogg.bil
 * [ ] fylla på wikidata med skolenheter/utbildningsanastalter som ännu inte finns i wikidata. 
   * [ ] hitta bra källor https://github.com/salgo60/SvenskaSkolor/issues/1
 
-Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med så många skolor det går för att bespara användare inmatninsarbete och undvika dubletter (pch kopling till Wikidata för att uppdatera info vid behov), men vi kommer även att tillåta användare att skapa nya skolenheter som kanske sedan i framtiden kan skapas i wikidata. 
+Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med så många skolor det går för att bespara användare inmatninsarbete och undvika dubletter (och koppling till Wikidata för att uppdatera info vid behov). Men vi kommer även att tillåta BHs användare i ett enkelt gränssnitt att skapa egna skolor ifall de inte hittar rätt skola i vår databas. Efter ett tag kan vi sedan flöda dessa nyskapade skolor in i Wikidata och på så sätt ge dessa ett wikidata ID. Detta blir en win-win: Bildhistoria erbjuder ett enklare gränssnitt för att skapa skolor som sedan kan utnyttjas i Wikidata. Med hjölp av Wikidata IDt kan BH erbjuda artiklar om skolan inna i BH på olika språk. 
+
+Bildhistoria.se planeras lanseras hösten 2022. 
 
 Bakgrundsartiklar om svenska skolväsendet: 
 
