@@ -13,6 +13,10 @@ Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med s
 * [Kategori:Listor_med_anknytning_till_utbildning](https://sv.wikipedia.org/wiki/Kategori:Listor_med_anknytning_till_utbildning)
 
 ## Listor på skolor utanför Wikivärlden
+* [Datastory school-map-sweden](https://www.datastory.org/sv/services/school-map-sweden)
+* [Skoladresser från skolenhetsregistret](https://www.skolverket.se/skolutveckling/statistik/skoladresser-fran-skolenhetsregistret)
+* Kulturnav [Svenska skolor - skolenhetsregistret (SCB)](https://kulturnav.org/566244ce-12e7-430c-a00c-005edda27564) läst 2020-02-13
+   * digitaltmuseum [sökning topic skolor](https://digitaltmuseum.se/search/?aq=topic%3A%22Skolor%22) --> 1,644 results [skola](https://digitaltmuseum.se/search/?aq=topic%3A%22Skola%22) --> 12,996 results
 
 
 ## Mer info
@@ -28,14 +32,7 @@ Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med s
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/14206509/167285284-073e3d97-eb9e-4159-96af-e659b4034617.png">
 
 
-
-
-
-### Bilder wikicommons ###
 * [Category:Educational_institutions_in_Sweden](https://commons.wikimedia.org/wiki/Category:Educational_institutions_in_Sweden)
 
 ## Misc ##
-* [Datastory school-map-sweden](https://www.datastory.org/sv/services/school-map-sweden)
-* [Skoladresser från skolenhetsregistret](https://www.skolverket.se/skolutveckling/statistik/skoladresser-fran-skolenhetsregistret)
-* Kulturnav [Svenska skolor - skolenhetsregistret (SCB)](https://kulturnav.org/566244ce-12e7-430c-a00c-005edda27564) läst 2020-02-13
-   * digitaltmuseum [sökning topic skolor](https://digitaltmuseum.se/search/?aq=topic%3A%22Skolor%22) --> 1,644 results [skola](https://digitaltmuseum.se/search/?aq=topic%3A%22Skola%22) --> 12,996 results
+
