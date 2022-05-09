@@ -16,7 +16,7 @@ Bakgrundsartiklar om svenska skolväsendet:
 
 * Wikidata ID	
 * Typ av skola (enl UNESCO's klassificering)	
-* N*amn1	
+* Namn1	
 * Namn2	
 * Namn3	
 * Grundades (datum)
