@@ -1,5 +1,8 @@
 # Bakgrund
-Repository för skolenheter i Sverige. Eftersom [Bildhistoria](https://blogg.bildhistoria.se/) fokuserar på tiden 1850-1970 ungefär, är historiska skolenheter viktgt även om de inte finns kvar idag. Tanken är att användare kan koppla personer till en skola/examenstyps/tidsintervall för att beskriva indviders utbildning. [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Svenska skolor och detta repository är för att 1) inventera vad som finns i Wikidata och 2) fylla på wikidata med skolenheter/utbildningsanastalter som ännu inte finns i wikidata. 
+Repository för skolenheter i Sverige. Eftersom [Bildhistoria](https://blogg.bildhistoria.se/) fokuserar på tiden 1850-1970 ungefär, är historiska skolenheter viktgt även om de inte finns kvar idag. Tanken är att användare kan koppla personer till en skola/examenstyps/tidsintervall för att beskriva indviders utbildning. [Bildhistoria](https://blogg.bildhistoria.se/) skall ha alla Svenska skolor och detta repository är för att 
+
+* [ ] inventera vad som finns i Wikidata 
+* [ ] fylla på wikidata med skolenheter/utbildningsanastalter som ännu inte finns i wikidata. 
 
 Tanken är att förpopulera [Bildhistoria](https://blogg.bildhistoria.se/) med så många skolor det går för att bespara användare inmatninsarbete och undvika dubletter (pch kopling till Wikidata för att uppdatera info vid behov), men vi kommer även att tillåta användare att skapa nya skolenheter som kanske sedan i framtiden kan skapas i wikidata. 
 
