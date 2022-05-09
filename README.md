@@ -11,6 +11,10 @@ Bakgrundsartikler om svenska skolväsendet:
 
 * https://lararnashistoria.se/
 
+## Önskade egenskaper för skola
+
+
+
 ## Svenska skolor i Wikipedia/Wikidata
 
 * [Lista över läroverk och realskolor i Sverige](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_l%C3%A4roverk_och_realskolor_i_Sverige) 
