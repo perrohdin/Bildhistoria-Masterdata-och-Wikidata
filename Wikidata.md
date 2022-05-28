@@ -3,6 +3,7 @@
    * [X] dagens skolor se [dashboard](https://www.wikidata.org/wiki/Wikidata:WikiProject_Sweden/Schools)
      * kan hämtas via SCB se [xls](https://www.scb.se/contentassets/6a9472ed9e474943bac8a30391b0ceb1/skolenhetskod_och_verksamhet_2022-03.xlsx)
        * Wikidata [lista](https://w.wiki/59mN) / [karta](https://w.wiki/59mM) 6904 stycken
+   * [ ] alla skolor
 * [ ] https://github.com/perrohdin/Bildhistoria-Masterdata-och-Wikidata/issues/4 "Svenska Museer och arkiv i Bildhistoria och i Wikidata"
   * [X]  svenska museer som [karta](https://w.wiki/59jT)/ [lista](https://w.wiki/59jS) 
   * [ ] arkiv är dåligt i WD [SPARQL](https://w.wiki/594r)
